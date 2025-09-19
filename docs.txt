@@ -1,0 +1,29 @@
+Q1: My computer is very slow when I start it up. What can I do?
+A1: Restart your computer, disable unnecessary startup programs in Task Manager, run a virus scan, clear temporary files using Disk Cleanup, and make sure Windows Updates are installed.
+
+Q2: I forgot my Windows password. How can I reset it?
+A2: On the login screen, click "Forgot Password" and follow the prompts. If you are on a work device, contact IT to reset your password in Active Directory.
+
+Q3: My Outlook is not sending emails. What should I check?
+A3: Ensure you are connected to the internet, check the Outbox folder for stuck emails, confirm your mailbox is not full, and restart Outlook. If still failing, restart your computer.
+
+Q4: The Wi-Fi keeps disconnecting. How do I fix it?
+A4: Restart your router, forget and reconnect to the Wi-Fi network, update your Wi-Fi drivers, and move closer to the access point. If issue continues, contact IT to check the network.
+
+Q5: My printer is not printing. What should I do?
+A5: Check that the printer is powered on, paper is loaded, and there are no error lights. Make sure the printer is set as the default printer. Restart the printer spooler service or reinstall the driver if needed.
+
+Q6: My screen is blank, but the computer is on. How can I fix this?
+A6: Check if the monitor is powered on and cables are securely connected. Try pressing CTRL + ALT + DEL. If still blank, connect to another monitor or restart the computer.
+
+Q7: I accidentally deleted an important file. Can I recover it?
+A7: Check the Recycle Bin and restore it if available. If not, check if your files are backed up (OneDrive, Google Drive, or backup server). If no backup exists, contact IT for recovery software.
+
+Q8: My keyboard is typing wrong characters. How do I fix it?
+A8: Check if the keyboard layout has changed (press Windows Key + Space to switch). Also, make sure Num Lock is on/off as needed. If still wrong, update or reinstall the keyboard driver.
+
+Q9: Microsoft Teams is not opening. What should I do?
+A9: Close Teams completely (right-click in system tray → Quit), then relaunch it. Clear Teams cache from `%appdata%\Microsoft\Teams`. If still failing, reinstall Teams.
+
+Q10: My computer shows "No Boot Device Found." What does this mean?
+A10: This means your system cannot find the hard drive. Restart the PC, enter BIOS to check if the drive is detected, ensure no external USB is interfering. If it persists, contact IT for hardware check.
